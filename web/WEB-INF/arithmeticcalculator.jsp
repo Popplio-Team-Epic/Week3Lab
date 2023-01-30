@@ -22,5 +22,6 @@
             <input type="submit" name="operation" value="%">
         </form>
         <p>Result: ${ArithmeticAnswer}</p>
+        <a href="AgeCalc">Age Calculator</a>
     </body>
 </html>
