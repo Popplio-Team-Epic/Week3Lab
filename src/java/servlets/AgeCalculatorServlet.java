@@ -30,7 +30,6 @@ public class AgeCalculatorServlet extends HttpServlet {
             return;
         }
         // Validation Check - String
-        // https://www.studytonight.com/java-examples/check-if-input-is-integer-in-java
         try {
             Integer.parseInt(age);
             // Valid
